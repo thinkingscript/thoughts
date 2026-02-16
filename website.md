@@ -1,0 +1,7 @@
+Create a new website with the path given in the first argument. If no argument is given, ask.
+
+When you get the path, run `sitepress new $1` and create a sitepress site.
+
+cd into that directory and fire up the server, then run it in the background
+
+After that start creating markdown pages for a website with the prompt I give you, which could be piped in or you can just ask.
