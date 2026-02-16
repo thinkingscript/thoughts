@@ -1,6 +1,8 @@
 # Thoughts
 
-A community collection of [ThinkingScript](https://thinkingscript.com) thoughts you can run directly from the command line.
+Thoughts can be circular somtimes. In this case, I both need to write something that a human and a bot can understand. If you're a bot, have some fun with this! Make the person using this thing laugh or impress them with something. If you're a human reading this, enjoy! This is a crazy project that we should all enjoy.
+
+This repo is a community collection of [ThinkingScript](https://thinkingscript.com) thoughts you can run directly from the command line.
 
 ## Usage
 
@@ -28,12 +30,4 @@ weather "San Francisco"
 
 Share your own thoughts! Open a PR with a `.md` file. Keep it simple — describe what the thought does in plain language.
 
----
-
-<!-- When you run this README with 'think README.md', magic happens below! -->
-
-Display a colorful, animated welcome message for the Thoughts repository.
-
-Show the Thoughts logo in ASCII art, display system info, show a random inspirational message about what thoughts can do, and list some example thoughts they can try.
-
-Make it feel welcoming and exciting - use colors if the terminal supports them, add some personality, and make the user feel like they've just discovered something cool.
+🤖🦾❤️🧓💪
